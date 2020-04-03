@@ -1,4 +1,4 @@
-##  udemy- introduction to Git and github course
+##  udemy-Git course
 ### First Assigemnt
 
 Name: Esraa alhmoud
